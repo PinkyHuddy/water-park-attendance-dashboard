@@ -79,13 +79,11 @@ These values describe associations observed in this dataset. They do not establi
 
 ## Dashboard
 
-Recommended title: **Water Park Attendance and Operations Dashboard**
+**Water Park Attendance and Operations Dashboard**
 
-Planned views include KPI cards, attendance over time, weekday and weekend comparisons, temperature and precipitation analysis, holiday context, attendance distribution, and highest/lowest dates.
+The completed Tableau dashboard combines KPI cards with attendance trends, weekday and weekend comparisons, temperature analysis, precipitation context, and holiday patterns. The views are designed for descriptive operational analysis rather than causal or predictive claims.
 
-Dashboard screenshot: add after the Tableau workbook is built.
-
-**Tableau Public:** Add link after publication.
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/hudson.smith7339/viz/work_17840796637640/Dashboard1)**
 
 The complete beginner-friendly build instructions are in [docs/tableau_dashboard_guide.md](docs/tableau_dashboard_guide.md).
 
