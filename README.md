@@ -89,7 +89,12 @@ The complete beginner-friendly build instructions are in [docs/tableau_dashboard
 
 ## Operational Implications
 
-Historical weekend demand was substantially higher than weekday demand, suggesting that weekend staffing coverage deserves closer review. Holidays and hotter days also corresponded with higher attendance, but those conditions should remain contextual planning inputs rather than automatic staffing rules. The dataset should not be the sole basis for precise staffing decisions.
+- Historical weekend demand was substantially higher than weekday demand, suggesting that weekend staffing coverage and contingency plans deserve closer review.
+- Holidays corresponded with higher attendance, but the dataset contains only 16 holiday observations. Managers could use this pattern as one input when reviewing voluntary availability, backup coverage, and callout contingencies rather than as an automatic staffing rule.
+- Hotter days also corresponded with higher attendance. Staffing reviews for these dates should consider both potential demand and employee heat-safety needs, including adequate rotations, breaks, hydration, and backup coverage.
+- The absence of observations for 2020 and 2021 prevents this dataset from measuring the operational effects of COVID-19. The gap instead highlights the value of business-continuity planning and consistent data collection during future disruptions.
+
+These findings are descriptive and should be combined with capacity requirements, labor policies, employee availability, weather forecasts, and managerial judgment before staffing decisions are made.
 
 ## Limitations
 
