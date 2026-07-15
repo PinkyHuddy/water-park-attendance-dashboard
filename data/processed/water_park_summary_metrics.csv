@@ -1,0 +1,17 @@
+metric,value
+total_operating_days,416
+total_tickets,114463
+average_daily_tickets,275.1514423076923
+median_daily_tickets,226.0
+minimum_daily_tickets,0
+maximum_daily_tickets,1152
+busiest_date,2024-07-04
+slowest_date,2019-05-20
+average_weekday_attendance,190.4959349593496
+average_weekend_attendance,397.65294117647056
+weekend_attendance_difference,207.15700621712097
+average_hot_day_attendance,314.42918454935625
+average_cool_day_attendance,225.3756906077348
+average_rainy_day_attendance,122.27272727272727
+average_dry_day_attendance,279.3037037037037
+number_of_missing_weather_days,2

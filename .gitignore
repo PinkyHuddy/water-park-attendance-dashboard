@@ -1,0 +1,47 @@
+.DS_Store
+AGENTS.md
+
+# Python environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Common local secret material
+*.pem
+*.key
+*.crt
+
+# Private business data and Tableau extracts
+data/cash_receipts.csv
+data/weather.csv
+data/private/
+*.hyper
+*.twbx
+
+# Local processing configuration
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
